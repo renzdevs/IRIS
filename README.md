@@ -1,5 +1,10 @@
 # Iris
 
+<p align="center">
+  <img src="./iris.png" alt="IRIS logo" width="220">
+</p>
+
+
 A trading bot that **learns in public**.
 
 Iris trades small, documents everything, and improves after every win/loss.
